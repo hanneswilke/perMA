@@ -299,7 +299,7 @@
 }
 
 .slider {
-  height: 500px;
+  height: 100%;
   width: 100%;
   margin-top: 50px;
 }
@@ -1150,7 +1150,7 @@
     grid-template-columns: 1fr;
   }
   .slider {
-    width: 100vw;
+    width: 100%;
     height: 100%;
   }
   .container-2 {
@@ -1402,7 +1402,7 @@
     align-items: center;
   }
   .slider {
-    height: 500px;
+    height: 100%;
     width: 100%;
     margin-top: 40px;
   }
